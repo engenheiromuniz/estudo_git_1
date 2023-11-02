@@ -1,0 +1,6 @@
+Esse é um arquivo txt para teste, o mesmo será: 
+1. incluido no arquivo original
+2. Será feito um pull para o clone
+3. Depois será excluído do clone
+4. Depois será feito um pull no server original para sincronizar os 2
+confirmando a deleção
