@@ -1,3 +1,9 @@
-h1{
+h1 {
     color: chocolate;
+    padding: 40px;
+}
+
+p{
+    color: gray;
+    padding: 60px;
 }
