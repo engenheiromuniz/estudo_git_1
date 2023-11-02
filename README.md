@@ -6,3 +6,5 @@ Objetivo
 
 André Luiz da Câmara Muniz
 02/11/2023
+
+Esse arquivo acaba de sofrer essa mudança, apenas para verifica a diferença no comando git-status
