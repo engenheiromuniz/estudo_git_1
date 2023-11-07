@@ -4,3 +4,5 @@ Este comando sever para remover ou renomear arquivo
 
 1. Renomeando
  > git rm nome_atual novo_nome
+
+ 
