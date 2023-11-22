@@ -14,9 +14,9 @@
   
   .text-block {
     position: absolute;
-    bottom: 300px;
+    bottom: 200px;
     left: 20px;
-    background-color: rgb(16, 68, 180);
+    background-color: #1044b4;
     color: white;
     padding-left: 20px;
     padding-right: 20px;
